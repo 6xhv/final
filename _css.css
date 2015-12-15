@@ -1,5 +1,5 @@
 .nav a {
-  color: #ADD8E6;
+  color: white;
   font-size: 11px;
   font-weight: bold;
   padding: 14px 10px;
@@ -11,7 +11,7 @@
 }
 
 .jumbotron {
-  background-image:url('http://image-cdn.gamnesia.com/19099/video_games_1__banner-auto-cropping.jpg');
+  background-image:url('https://media.alienwarearena.com/media/banner_14.jpg');
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -23,7 +23,7 @@
 }
 
 .jumbotron h1 {
-  color: blue;
+  color: white;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
@@ -46,4 +46,8 @@
 
 .learn-more a {
   color: #00b0ff;
+}
+*{
+  background-color:black;
+  color:white;
 }
